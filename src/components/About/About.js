@@ -19,13 +19,9 @@ function About() {
             alt="man-svgrepo"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Your Name</strong> Lorem Ipsum is simply
-            dummy text of the printing and typesetting industry. Lorem Ipsum has
-            been the industry's standard dummy text ever since the 1500s, when
-            an unknown printer took a galley of type and scrambled it to make a
-            type specimen book. It has survived not only five centuries, but
-            also the leap into electronic typesetting, remaining essentially
-            unchanged.
+            Hello! My name is <strong>Maggie Przywara.</strong> I am current Temple University student pursuing a BFA in Film and Media Arts with a minor in business.
+            I am a producer at Temple Update and upcoming film editor and screenwriter. I am always looking for opportunities to broaden and hone my skillset. 
+            My energy, problem solving ability, adaptability and more allow me to rise as an excellent member of your team!
           </div>
           <div className="AboutBio tagline2">
             I have become confident using the following technologies.
